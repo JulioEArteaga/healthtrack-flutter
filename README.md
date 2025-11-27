@@ -48,6 +48,6 @@ Aplicación móvil desarrollada en Flutter para el seguimiento de dietas, metas 
 
 Puedes descargar e instalar la aplicación Android desde aquí:
 
-🔗 [Descargar HealthTrack v1.0.0 (APK)](sha256:5d7fd1da4b716a4672804ca1951db59ceee560b70a8962e9ed4aee13922ed578)
+🔗 [Descargar HealthTrack v1.0.0 (APK)](https://github.com/JulioEArteaga/healthtrack-flutter/releases/download/v1.0.0/app-release.apk)
 
 
