@@ -1,0 +1,38 @@
+name: healthtrack
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # Firebase dependencies
+  firebase_core: ^4.2.1
+  firebase_auth: ^6.1.2
+  cloud_firestore: ^6.1.0
+
+  # Other dependencies
+  table_calendar: ^3.0.9
+  intl: ^0.20.2
+
+  # 🔥 Nuevas dependencias agregadas:
+  uuid: ^4.4.0
+  rxdart: ^0.28.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Assets section to include the apple.png logo
+  assets:
+    - assets/images/apple.png
